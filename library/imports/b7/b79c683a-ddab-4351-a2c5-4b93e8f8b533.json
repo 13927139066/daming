@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "鍒嗗壊绾垮拰鍟嗗簵鐨勯€氱敤",
+    "texture": "e277f5c8-8c85-476d-983b-42a00e75d518",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      586,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      586,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

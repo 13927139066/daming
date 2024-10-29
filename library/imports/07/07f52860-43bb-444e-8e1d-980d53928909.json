@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bvd",
+    "texture": "1e9a973c-4c0f-47d7-8045-9db650988e74",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      192,
+      76
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      192,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

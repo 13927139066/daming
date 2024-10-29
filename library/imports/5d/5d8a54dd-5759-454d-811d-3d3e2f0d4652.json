@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign_taken",
+    "texture": "2153395d-8ac6-411a-904f-416a675a03cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

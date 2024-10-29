@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LV20",
+    "texture": "c0700e2e-c15a-418e-9280-0ac1cf54a3c2",
+    "atlas": "",
+    "rect": [
+      22,
+      46,
+      81,
+      160
+    ],
+    "offset": [
+      -1,
+      -19
+    ],
+    "originalSize": [
+      127,
+      214
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

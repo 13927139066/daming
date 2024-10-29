@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soldier_lv",
+    "texture": "a229e78a-915a-4f1e-8cc2-11e40a52baa7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

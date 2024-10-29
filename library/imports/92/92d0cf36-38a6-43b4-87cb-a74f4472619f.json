@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VB",
+    "texture": "f126ad3b-90ea-48d0-b358-cece3e6c1519",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      677,
+      678
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      677,
+      678
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
